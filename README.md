@@ -10,7 +10,11 @@ A simple Contact Form (Version 4) with validation and LocalStorage using HTML, B
 - Responsive design using Bootstrap
 
 ## Screenshot
-![Contact Form Screenshot](screenshot-simple-contact-form-v4.png)
+![Contact Form Screenshot](screenshot-simple-contact-form-v4/screenshot-simple-contact-form-v4.png)
+ ## Screenshot
+![Contact Form Screenshot](screenshot-simple-contact-form-v4/screenshot-simple-contact-form-v4-errorMsg.png)
+ ## Screenshot
+![Contact Form Screenshot](screenshot-simple-contact-form-v4/screenshot-simple-contact-form-v4-successMsg.png)
 
 ## How to Use
 1. Open `index.html` in your browser
